@@ -12,7 +12,7 @@
 
 ## 📝 Week 1 Activity
 
-> 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` and add `Task #2`, `Task #3`, … as needed.
+> 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
 
 ```markdown
 ### 📋 Task #1: name
@@ -44,22 +44,11 @@
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-### ⏰ Time Investment & Commitment
-| 📊 Day      | 🔢 Hours |
-| ----------- | -------- |
-| Monday      |          |
-| Tuesday     |          |
-| Wednesday   |          |
-| Thursday    |          |
-| Friday      |          |
-| Saturday    |          |
-| Sunday      |          |
-| **Total**   | xx of xx hours |
-
 ### 😊 Weekly Satisfaction Assessment
-| 📊 Satisfaction Level    | ⭐ Rating |
-| ------------------------ | --------- |
-| **Overall Satisfaction** | [XX]%     |
+| 📊 Satisfaction Level            | ⭐ Rating |
+| -------------------------------- | --------- |
+| ⏱️ **Total Hours This Week**     | xx of xx hours |
+| **Overall Satisfaction**         | [XX]%     |
 ### ✍️ Additional Notes (Optional)
 *Use this section for any other activities or explanations not covered above.*
 - [Your point 1]
@@ -69,7 +58,7 @@
 
 ## 📝 Week 2 Activity
 
-> 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` and add `Task #2`, `Task #3`, … as needed.
+> 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
 
 ```markdown
 ### 📋 Task #1: name
@@ -101,22 +90,11 @@
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-### ⏰ Time Investment & Commitment
-| 📊 Day      | 🔢 Hours |
-| ----------- | -------- |
-| Monday      |          |
-| Tuesday     |          |
-| Wednesday   |          |
-| Thursday    |          |
-| Friday      |          |
-| Saturday    |          |
-| Sunday      |          |
-| **Total**   | xx of xx hours |
-
 ### 😊 Weekly Satisfaction Assessment
-| 📊 Satisfaction Level    | ⭐ Rating |
-| ------------------------ | --------- |
-| **Overall Satisfaction** | [XX]%     |
+| 📊 Satisfaction Level            | ⭐ Rating |
+| -------------------------------- | --------- |
+| ⏱️ **Total Hours This Week**     | xx of xx hours |
+| **Overall Satisfaction**         | [XX]%     |
 ### ✍️ Additional Notes (Optional)
 *Use this section for any other activities or explanations not covered above.*
 - [Your point 1]
@@ -126,7 +104,7 @@
 
 ## 📝 Week 3 Activity
 
-> 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` and add `Task #2`, `Task #3`, … as needed.
+> 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
 
 ```markdown
 ### 📋 Task #1: name
@@ -158,22 +136,11 @@
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-### ⏰ Time Investment & Commitment
-| 📊 Day      | 🔢 Hours |
-| ----------- | -------- |
-| Monday      |          |
-| Tuesday     |          |
-| Wednesday   |          |
-| Thursday    |          |
-| Friday      |          |
-| Saturday    |          |
-| Sunday      |          |
-| **Total**   | xx of xx hours |
-
 ### 😊 Weekly Satisfaction Assessment
-| 📊 Satisfaction Level    | ⭐ Rating |
-| ------------------------ | --------- |
-| **Overall Satisfaction** | [XX]%     |
+| 📊 Satisfaction Level            | ⭐ Rating |
+| -------------------------------- | --------- |
+| ⏱️ **Total Hours This Week**     | xx of xx hours |
+| **Overall Satisfaction**         | [XX]%     |
 ### ✍️ Additional Notes (Optional)
 *Use this section for any other activities or explanations not covered above.*
 - [Your point 1]
@@ -183,7 +150,7 @@
 
 ## 📝 Week 4 Activity
 
-> 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` and add `Task #2`, `Task #3`, … as needed.
+> 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
 
 ```markdown
 ### 📋 Task #1: name
@@ -215,22 +182,11 @@
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-### ⏰ Time Investment & Commitment
-| 📊 Day      | 🔢 Hours |
-| ----------- | -------- |
-| Monday      |          |
-| Tuesday     |          |
-| Wednesday   |          |
-| Thursday    |          |
-| Friday      |          |
-| Saturday    |          |
-| Sunday      |          |
-| **Total**   | xx of xx hours |
-
 ### 😊 Weekly Satisfaction Assessment
-| 📊 Satisfaction Level    | ⭐ Rating |
-| ------------------------ | --------- |
-| **Overall Satisfaction** | [XX]%     |
+| 📊 Satisfaction Level            | ⭐ Rating |
+| -------------------------------- | --------- |
+| ⏱️ **Total Hours This Week**     | xx of xx hours |
+| **Overall Satisfaction**         | [XX]%     |
 ### ✍️ Additional Notes (Optional)
 *Use this section for any other activities or explanations not covered above.*
 - [Your point 1]
@@ -240,7 +196,7 @@
 
 ## 📝 Week 5 Activity
 
-> 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` and add `Task #2`, `Task #3`, … as needed.
+> 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
 
 ```markdown
 ### 📋 Task #1: name
@@ -272,22 +228,11 @@
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-### ⏰ Time Investment & Commitment
-| 📊 Day      | 🔢 Hours |
-| ----------- | -------- |
-| Monday      |          |
-| Tuesday     |          |
-| Wednesday   |          |
-| Thursday    |          |
-| Friday      |          |
-| Saturday    |          |
-| Sunday      |          |
-| **Total**   | xx of xx hours |
-
 ### 😊 Weekly Satisfaction Assessment
-| 📊 Satisfaction Level    | ⭐ Rating |
-| ------------------------ | --------- |
-| **Overall Satisfaction** | [XX]%     |
+| 📊 Satisfaction Level            | ⭐ Rating |
+| -------------------------------- | --------- |
+| ⏱️ **Total Hours This Week**     | xx of xx hours |
+| **Overall Satisfaction**         | [XX]%     |
 ### ✍️ Additional Notes (Optional)
 *Use this section for any other activities or explanations not covered above.*
 - [Your point 1]
@@ -297,7 +242,7 @@
 
 ## 📝 Week 6 Activity
 
-> 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` and add `Task #2`, `Task #3`, … as needed.
+> 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
 
 ```markdown
 ### 📋 Task #1: name
@@ -329,22 +274,11 @@
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-### ⏰ Time Investment & Commitment
-| 📊 Day      | 🔢 Hours |
-| ----------- | -------- |
-| Monday      |          |
-| Tuesday     |          |
-| Wednesday   |          |
-| Thursday    |          |
-| Friday      |          |
-| Saturday    |          |
-| Sunday      |          |
-| **Total**   | xx of xx hours |
-
 ### 😊 Weekly Satisfaction Assessment
-| 📊 Satisfaction Level    | ⭐ Rating |
-| ------------------------ | --------- |
-| **Overall Satisfaction** | [XX]%     |
+| 📊 Satisfaction Level            | ⭐ Rating |
+| -------------------------------- | --------- |
+| ⏱️ **Total Hours This Week**     | xx of xx hours |
+| **Overall Satisfaction**         | [XX]%     |
 ### ✍️ Additional Notes (Optional)
 *Use this section for any other activities or explanations not covered above.*
 - [Your point 1]
@@ -354,7 +288,7 @@
 
 ## 📝 Week 7 Activity
 
-> 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` and add `Task #2`, `Task #3`, … as needed.
+> 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
 
 ```markdown
 ### 📋 Task #1: name
@@ -386,22 +320,11 @@
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-### ⏰ Time Investment & Commitment
-| 📊 Day      | 🔢 Hours |
-| ----------- | -------- |
-| Monday      |          |
-| Tuesday     |          |
-| Wednesday   |          |
-| Thursday    |          |
-| Friday      |          |
-| Saturday    |          |
-| Sunday      |          |
-| **Total**   | xx of xx hours |
-
 ### 😊 Weekly Satisfaction Assessment
-| 📊 Satisfaction Level    | ⭐ Rating |
-| ------------------------ | --------- |
-| **Overall Satisfaction** | [XX]%     |
+| 📊 Satisfaction Level            | ⭐ Rating |
+| -------------------------------- | --------- |
+| ⏱️ **Total Hours This Week**     | xx of xx hours |
+| **Overall Satisfaction**         | [XX]%     |
 ### ✍️ Additional Notes (Optional)
 *Use this section for any other activities or explanations not covered above.*
 - [Your point 1]
@@ -411,7 +334,7 @@
 
 ## 📝 Week 8 Activity
 
-> 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` and add `Task #2`, `Task #3`, … as needed.
+> 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
 
 ```markdown
 ### 📋 Task #1: name
@@ -443,22 +366,11 @@
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-### ⏰ Time Investment & Commitment
-| 📊 Day      | 🔢 Hours |
-| ----------- | -------- |
-| Monday      |          |
-| Tuesday     |          |
-| Wednesday   |          |
-| Thursday    |          |
-| Friday      |          |
-| Saturday    |          |
-| Sunday      |          |
-| **Total**   | xx of xx hours |
-
 ### 😊 Weekly Satisfaction Assessment
-| 📊 Satisfaction Level    | ⭐ Rating |
-| ------------------------ | --------- |
-| **Overall Satisfaction** | [XX]%     |
+| 📊 Satisfaction Level            | ⭐ Rating |
+| -------------------------------- | --------- |
+| ⏱️ **Total Hours This Week**     | xx of xx hours |
+| **Overall Satisfaction**         | [XX]%     |
 ### ✍️ Additional Notes (Optional)
 *Use this section for any other activities or explanations not covered above.*
 - [Your point 1]
@@ -468,7 +380,7 @@
 
 ## 📝 Week 9 Activity
 
-> 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` and add `Task #2`, `Task #3`, … as needed.
+> 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
 
 ```markdown
 ### 📋 Task #1: name
@@ -500,22 +412,11 @@
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-### ⏰ Time Investment & Commitment
-| 📊 Day      | 🔢 Hours |
-| ----------- | -------- |
-| Monday      |          |
-| Tuesday     |          |
-| Wednesday   |          |
-| Thursday    |          |
-| Friday      |          |
-| Saturday    |          |
-| Sunday      |          |
-| **Total**   | xx of xx hours |
-
 ### 😊 Weekly Satisfaction Assessment
-| 📊 Satisfaction Level    | ⭐ Rating |
-| ------------------------ | --------- |
-| **Overall Satisfaction** | [XX]%     |
+| 📊 Satisfaction Level            | ⭐ Rating |
+| -------------------------------- | --------- |
+| ⏱️ **Total Hours This Week**     | xx of xx hours |
+| **Overall Satisfaction**         | [XX]%     |
 ### ✍️ Additional Notes (Optional)
 *Use this section for any other activities or explanations not covered above.*
 - [Your point 1]
@@ -525,7 +426,7 @@
 
 ## 📝 Week 10 Activity
 
-> 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` and add `Task #2`, `Task #3`, … as needed.
+> 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
 
 ```markdown
 ### 📋 Task #1: name
@@ -557,22 +458,11 @@
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-### ⏰ Time Investment & Commitment
-| 📊 Day      | 🔢 Hours |
-| ----------- | -------- |
-| Monday      |          |
-| Tuesday     |          |
-| Wednesday   |          |
-| Thursday    |          |
-| Friday      |          |
-| Saturday    |          |
-| Sunday      |          |
-| **Total**   | xx of xx hours |
-
 ### 😊 Weekly Satisfaction Assessment
-| 📊 Satisfaction Level    | ⭐ Rating |
-| ------------------------ | --------- |
-| **Overall Satisfaction** | [XX]%     |
+| 📊 Satisfaction Level            | ⭐ Rating |
+| -------------------------------- | --------- |
+| ⏱️ **Total Hours This Week**     | xx of xx hours |
+| **Overall Satisfaction**         | [XX]%     |
 ### ✍️ Additional Notes (Optional)
 *Use this section for any other activities or explanations not covered above.*
 - [Your point 1]
