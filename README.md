@@ -94,3 +94,34 @@ git push origin main
   git pull upstream main
   git push origin main
   ```
+
+## 🗂️ ابزار پیشنهادی: Obsidian + پلاگین Git
+
+برای ویرایش گزارش می‌تونید از هر ویرایشگر Markdown‌ای (مثل VS Code) استفاده کنید، ولی ابزار پیشنهادی ما **Obsidian** هست:
+
+- رایگانه و فایل‌ها رو به‌صورت فایل‌های متنی ساده Markdown روی دستگاه خودتون ذخیره می‌کنه — دقیقاً همون فرمتی که گیت و گیت‌هاب استفاده می‌کنن؛ هیچ فرمت اختصاصی‌ای تحمیل نمی‌کنه.
+- بدون اینترنت و آفلاین هم کار می‌کنه. (هرچند برای کامیت و پوش اینترنت لازم هست)
+- روی ویندوز، مک، لینوکس و همچنین **اندروید و iOS** در دسترسه ([https://obsidian.md/mobile](https://obsidian.md/mobile)).
+- با پلاگین (Community Plugin) به‌نام **Git** ساخته‌ی Vinzent03 ([github.com/Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git)) می‌تونید مستقیم از داخل Obsidian کامیت و پوش کنید.
+
+### نصب و راه‌اندازی
+
+1. اول Obsidian رو دانلود و نصب کنید: [https://obsidian.md/download](https://obsidian.md/download) (اندروید: گوگل‌پلی یا [https://obsidian.md/mobile](https://obsidian.md/mobile)).
+2. بار اول که باز شد، گزینه‌ی **Open folder as vault** رو انتخاب کنید و پوشه‌ی ریپوی کلون‌شده (`cs-daily-report`) رو به‌عنوان vault باز کنید.
+3. از **Settings → Community plugins** پلاگین‌ها رو فعال کنید.
+4. روی **Browse** بزنید، دنبال پلاگین **Git** (نویسنده: Vinzent03) بگردید، **Install** و بعد **Enable** کنید.
+5. (اختیاری) Obsidian رو ری‌استارت کنید.
+
+### استفاده روزانه
+
+1. فایل گزارش استپ خودتون (`CSI - Report - ...`) رو باز کنید و گزارش روز رو توش پر کنید.
+2. بعد از تکمیل گزارش: `Ctrl+P` (یا Command Palette موبایل) → دستور **Commit-and-sync** رو اجرا کنید؛ این دستور همه‌ی تغییرات رو کامیت، پول و پوش می‌کنه. می‌تونید از **Source Control View** هم برای انتخاب فایل‌ها استفاده کنید.
+3. بعد از push، لینک کامیت رو از **History View** یا از خود گیت‌هاب کپی کنید و طبق گام ۷ در تلگرام ارسال کنید.
+
+### نکات مهم (به‌ویژه برای اندروید)
+
+- پشتیبانی موبایل این پلاگین هنوز **آزمایشی (Experimental)** هست و ممکنه ناپایدار باشه، مخصوصاً روی دستگاه‌های کم‌حافظه. برای گزارش روزانه، بهتره کامیت و پوش نهایی رو از روی دسکتاپ انجام بدید.
+- در موبایل، احراز هویت SSH پشتیبانی نمی‌شه و باید از HTTPS با توکن گیت‌هاب استفاده کنید.
+- در موبایل ابتدا یک Vault بسازید، سپس از طریق Command Palette دستور git clone رو اجرا کنید.
+- اگر در موبایل مشکل داشتید، پلاگین رایگان **GitSync** ([github.com/ViscousPot/GitSync](https://github.com/ViscousPot/GitSync)) جایگزین مناسبی برای اندروید و iOS هست.
+- مستندات کامل پلاگین: [https://publish.obsidian.md/git-doc](https://publish.obsidian.md/git-doc)
