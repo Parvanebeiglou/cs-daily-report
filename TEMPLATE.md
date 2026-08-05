@@ -1,10 +1,10 @@
 # 📊 CS Internship Daily Report For Step X
 
 ## 👤 Intern Information
-| 🧑‍💻 **Intern Name**        |            |
-| ---------------------------- | ---------- |
-| 🧑‍🏫 Coordinator Name       |            |
-| 👣 **Step Number**           | step X     |
+| 🧑‍💻 **Intern Name**       |            |
+| --------------------------- | ---------- |
+| 🧑‍🏫 **Coordinator Name**      |            |
+| 👣 **Step Number**          | step X     |
 | ⏳ **Weekly Committed Time** |            |
 | ⏰ **Step Deadline**         | 1405-xx-xx |
 
