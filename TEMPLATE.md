@@ -19,21 +19,21 @@
 | ![[telegram-icon.svg]] |      |      |
 | ![[linkedin-icon.svg]] |      |      |
 | ![[twitter-icon.svg]]  |      |      |
-## 🤝 Meetings Attended
+### 🤝 Meetings Attended
 | Title/Purpose         | 📅 Date    |
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-## ⏰ Time Investment & Commitment
+### ⏰ Time Investment & Commitment
 | 📊 Metric                           | 🔢 Value       |
 | ----------------------------------- | -------------- |
 | ⏱️ **Total Hours on cs_internship** | xx of xx hours |
 
-## 😊 Weekly Satisfaction Assessment
+### 😊 Weekly Satisfaction Assessment
 | 📊 Satisfaction Level    | ⭐ Rating |
 | ------------------------ | --------- |
 | **Overall Satisfaction** | [XX]%     |
-## ✍️ Additional Notes (Optional)
+### ✍️ Additional Notes (Optional)
 *Use this section for any other activities or explanations not covered above.*
 - [Your point 1]
 - [Your point 2]
@@ -49,21 +49,21 @@
 | ![[telegram-icon.svg]] |      |      |
 | ![[linkedin-icon.svg]] |      |      |
 | ![[twitter-icon.svg]]  |      |      |
-## 🤝 Meetings Attended
+### 🤝 Meetings Attended
 | Title/Purpose         | 📅 Date    |
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-## ⏰ Time Investment & Commitment
+### ⏰ Time Investment & Commitment
 | 📊 Metric                           | 🔢 Value       |
 | ----------------------------------- | -------------- |
 | ⏱️ **Total Hours on cs_internship** | xx of xx hours |
 
-## 😊 Weekly Satisfaction Assessment
+### 😊 Weekly Satisfaction Assessment
 | 📊 Satisfaction Level    | ⭐ Rating |
 | ------------------------ | --------- |
 | **Overall Satisfaction** | [XX]%     |
-## ✍️ Additional Notes (Optional)
+### ✍️ Additional Notes (Optional)
 *Use this section for any other activities or explanations not covered above.*
 - [Your point 1]
 - [Your point 2]
@@ -79,21 +79,21 @@
 | ![[telegram-icon.svg]] |      |      |
 | ![[linkedin-icon.svg]] |      |      |
 | ![[twitter-icon.svg]]  |      |      |
-## 🤝 Meetings Attended
+### 🤝 Meetings Attended
 | Title/Purpose         | 📅 Date    |
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-## ⏰ Time Investment & Commitment
+### ⏰ Time Investment & Commitment
 | 📊 Metric                           | 🔢 Value       |
 | ----------------------------------- | -------------- |
 | ⏱️ **Total Hours on cs_internship** | xx of xx hours |
 
-## 😊 Weekly Satisfaction Assessment
+### 😊 Weekly Satisfaction Assessment
 | 📊 Satisfaction Level    | ⭐ Rating |
 | ------------------------ | --------- |
 | **Overall Satisfaction** | [XX]%     |
-## ✍️ Additional Notes (Optional)
+### ✍️ Additional Notes (Optional)
 *Use this section for any other activities or explanations not covered above.*
 - [Your point 1]
 - [Your point 2]
@@ -109,21 +109,21 @@
 | ![[telegram-icon.svg]] |      |      |
 | ![[linkedin-icon.svg]] |      |      |
 | ![[twitter-icon.svg]]  |      |      |
-## 🤝 Meetings Attended
+### 🤝 Meetings Attended
 | Title/Purpose         | 📅 Date    |
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-## ⏰ Time Investment & Commitment
+### ⏰ Time Investment & Commitment
 | 📊 Metric                           | 🔢 Value       |
 | ----------------------------------- | -------------- |
 | ⏱️ **Total Hours on cs_internship** | xx of xx hours |
 
-## 😊 Weekly Satisfaction Assessment
+### 😊 Weekly Satisfaction Assessment
 | 📊 Satisfaction Level    | ⭐ Rating |
 | ------------------------ | --------- |
 | **Overall Satisfaction** | [XX]%     |
-## ✍️ Additional Notes (Optional)
+### ✍️ Additional Notes (Optional)
 *Use this section for any other activities or explanations not covered above.*
 - [Your point 1]
 - [Your point 2]
@@ -139,21 +139,21 @@
 | ![[telegram-icon.svg]] |      |      |
 | ![[linkedin-icon.svg]] |      |      |
 | ![[twitter-icon.svg]]  |      |      |
-## 🤝 Meetings Attended
+### 🤝 Meetings Attended
 | Title/Purpose         | 📅 Date    |
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-## ⏰ Time Investment & Commitment
+### ⏰ Time Investment & Commitment
 | 📊 Metric                           | 🔢 Value       |
 | ----------------------------------- | -------------- |
 | ⏱️ **Total Hours on cs_internship** | xx of xx hours |
 
-## 😊 Weekly Satisfaction Assessment
+### 😊 Weekly Satisfaction Assessment
 | 📊 Satisfaction Level    | ⭐ Rating |
 | ------------------------ | --------- |
 | **Overall Satisfaction** | [XX]%     |
-## ✍️ Additional Notes (Optional)
+### ✍️ Additional Notes (Optional)
 *Use this section for any other activities or explanations not covered above.*
 - [Your point 1]
 - [Your point 2]
@@ -169,21 +169,21 @@
 | ![[telegram-icon.svg]] |      |      |
 | ![[linkedin-icon.svg]] |      |      |
 | ![[twitter-icon.svg]]  |      |      |
-## 🤝 Meetings Attended
+### 🤝 Meetings Attended
 | Title/Purpose         | 📅 Date    |
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-## ⏰ Time Investment & Commitment
+### ⏰ Time Investment & Commitment
 | 📊 Metric                           | 🔢 Value       |
 | ----------------------------------- | -------------- |
 | ⏱️ **Total Hours on cs_internship** | xx of xx hours |
 
-## 😊 Weekly Satisfaction Assessment
+### 😊 Weekly Satisfaction Assessment
 | 📊 Satisfaction Level    | ⭐ Rating |
 | ------------------------ | --------- |
 | **Overall Satisfaction** | [XX]%     |
-## ✍️ Additional Notes (Optional)
+### ✍️ Additional Notes (Optional)
 *Use this section for any other activities or explanations not covered above.*
 - [Your point 1]
 - [Your point 2]
@@ -199,21 +199,21 @@
 | ![[telegram-icon.svg]] |      |      |
 | ![[linkedin-icon.svg]] |      |      |
 | ![[twitter-icon.svg]]  |      |      |
-## 🤝 Meetings Attended
+### 🤝 Meetings Attended
 | Title/Purpose         | 📅 Date    |
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-## ⏰ Time Investment & Commitment
+### ⏰ Time Investment & Commitment
 | 📊 Metric                           | 🔢 Value       |
 | ----------------------------------- | -------------- |
 | ⏱️ **Total Hours on cs_internship** | xx of xx hours |
 
-## 😊 Weekly Satisfaction Assessment
+### 😊 Weekly Satisfaction Assessment
 | 📊 Satisfaction Level    | ⭐ Rating |
 | ------------------------ | --------- |
 | **Overall Satisfaction** | [XX]%     |
-## ✍️ Additional Notes (Optional)
+### ✍️ Additional Notes (Optional)
 *Use this section for any other activities or explanations not covered above.*
 - [Your point 1]
 - [Your point 2]
@@ -229,21 +229,21 @@
 | ![[telegram-icon.svg]] |      |      |
 | ![[linkedin-icon.svg]] |      |      |
 | ![[twitter-icon.svg]]  |      |      |
-## 🤝 Meetings Attended
+### 🤝 Meetings Attended
 | Title/Purpose         | 📅 Date    |
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-## ⏰ Time Investment & Commitment
+### ⏰ Time Investment & Commitment
 | 📊 Metric                           | 🔢 Value       |
 | ----------------------------------- | -------------- |
 | ⏱️ **Total Hours on cs_internship** | xx of xx hours |
 
-## 😊 Weekly Satisfaction Assessment
+### 😊 Weekly Satisfaction Assessment
 | 📊 Satisfaction Level    | ⭐ Rating |
 | ------------------------ | --------- |
 | **Overall Satisfaction** | [XX]%     |
-## ✍️ Additional Notes (Optional)
+### ✍️ Additional Notes (Optional)
 *Use this section for any other activities or explanations not covered above.*
 - [Your point 1]
 - [Your point 2]
@@ -259,21 +259,21 @@
 | ![[telegram-icon.svg]] |      |      |
 | ![[linkedin-icon.svg]] |      |      |
 | ![[twitter-icon.svg]]  |      |      |
-## 🤝 Meetings Attended
+### 🤝 Meetings Attended
 | Title/Purpose         | 📅 Date    |
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-## ⏰ Time Investment & Commitment
+### ⏰ Time Investment & Commitment
 | 📊 Metric                           | 🔢 Value       |
 | ----------------------------------- | -------------- |
 | ⏱️ **Total Hours on cs_internship** | xx of xx hours |
 
-## 😊 Weekly Satisfaction Assessment
+### 😊 Weekly Satisfaction Assessment
 | 📊 Satisfaction Level    | ⭐ Rating |
 | ------------------------ | --------- |
 | **Overall Satisfaction** | [XX]%     |
-## ✍️ Additional Notes (Optional)
+### ✍️ Additional Notes (Optional)
 *Use this section for any other activities or explanations not covered above.*
 - [Your point 1]
 - [Your point 2]
@@ -289,21 +289,21 @@
 | ![[telegram-icon.svg]] |      |      |
 | ![[linkedin-icon.svg]] |      |      |
 | ![[twitter-icon.svg]]  |      |      |
-## 🤝 Meetings Attended
+### 🤝 Meetings Attended
 | Title/Purpose         | 📅 Date    |
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-## ⏰ Time Investment & Commitment
+### ⏰ Time Investment & Commitment
 | 📊 Metric                           | 🔢 Value       |
 | ----------------------------------- | -------------- |
 | ⏱️ **Total Hours on cs_internship** | xx of xx hours |
 
-## 😊 Weekly Satisfaction Assessment
+### 😊 Weekly Satisfaction Assessment
 | 📊 Satisfaction Level    | ⭐ Rating |
 | ------------------------ | --------- |
 | **Overall Satisfaction** | [XX]%     |
-## ✍️ Additional Notes (Optional)
+### ✍️ Additional Notes (Optional)
 *Use this section for any other activities or explanations not covered above.*
 - [Your point 1]
 - [Your point 2]
