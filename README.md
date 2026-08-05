@@ -40,10 +40,10 @@ CSI - Report - [Intern's Name] - [Course Name] - [Step No]
 مثال: `CSI - Report - Ali Alavi - Web - Step1.md`
 
 ```bash
-# ویندوز (PowerShell)
+# Windows (PowerShell)
 Copy-Item TEMPLATE.md "CSI - Report - Ali Alavi - Web - Step1.md"
 
-# لینوکس / مک
+# Mac / Linux
 cp TEMPLATE.md "CSI - Report - Ali Alavi - Web - Step1.md"
 ```
 
