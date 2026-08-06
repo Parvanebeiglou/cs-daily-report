@@ -13,14 +13,14 @@
 
 ## 🪜 گام به گام ارسال گزارش روزانه
 
-### گام ۱ — Fork کردن ریپو
+### گام ۱ — Fork کردن ریپو (فقط برای اولین بار)
 
 1. وارد ریپوی اصلی شوید: [https://github.com/serajoddin-aliabadi/cs-daily-report](https://github.com/serajoddin-aliabadi/cs-daily-report)
 2. روی دکمه **Fork** (بالا سمت راست) کلیک کنید تا یک کپی از ریپو، در اکانت خودتون ساخته بشه.
 
 ### گام ۲ — Clone کردن ریپو
 
-ریپوی فورک‌شده رو روی سیستم خودتون کلون کنید:
+ریپوی فورک‌شده رو، در صورتی که تا به حال کلون نکردید، روی سیستم خودتون کلون کنید:
 
 ```bash
 git clone https://github.com/<username>/cs-daily-report.git
@@ -151,4 +151,4 @@ https://github.com/<username>/cs-daily-report/commit/<sha>
 2. کامیت بزنید و پوش کنید (`git add` → `git commit` → `git push` یا فرمان **Commit-and-sync** در Obsidian).
 3. لینک کامیت رو کپی کنید (تب Commits در گیت‌هاب یا History View در Obsidian).
 4. در گروه **CS Internship - Coordination**، تاپیک **Reports**، پیام گزارش + لینک کامیت رو ارسال کنید و کوردینیتور رو منشن کنید.
-5. این کار رو هر روزِ کاری تکرار کنید؛ یک کامیت برای هر روز.
+5. این کار رو هر روز تکرار کنید؛ یک کامیت برای هر روز.
