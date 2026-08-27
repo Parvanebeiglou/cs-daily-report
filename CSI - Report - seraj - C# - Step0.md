@@ -27,10 +27,18 @@
 | ![Twitter](images/twitter-icon.svg)     |      |      |
 ```
 
-### 🗓️ Monday (1405-xx-xx)
-- ⏱️ **Working Hours Today:** xx
-### 🗓️ Tuesday (1405-xx-xx)
-- ⏱️ **Working Hours Today:** xx
+### 🗓️ Monday (1405-06-05)
+- ⏱️ **Working Hours Today:** 2
+Just a Meet about Daily Report
+### 🗓️ Tuesday (1405-06-06)
+- ⏱️ **Working Hours Today:** 01
+### 📋 Task #1: name
+
+| Social                 | Link | Date |
+| ---------------------- | ---- | ---- |
+| ![Telegram](images/telegram-icon.svg)   |   xx   |  xx    |
+| ![LinkedIn](images/linkedin-icon.svg)   |  xx    |     xx |
+| ![Twitter](images/twitter-icon.svg)     |    xx  |  xx    |
 ### 🗓️ Wednesday (1405-xx-xx)
 - ⏱️ **Working Hours Today:** xx
 ### 🗓️ Thursday (1405-xx-xx)
