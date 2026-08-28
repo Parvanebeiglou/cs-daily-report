@@ -51,7 +51,8 @@
 امروز یه جلسه با سراج الدین داشتم و درباره گزارش روزانه و تغییر در نحوه ارایه گزارش روزانه باهم صحبت کردیم. روی پیدا کردن ریسورس های جاوا اسکریپت بیشتر کار کردم. جاوا اسکریپت رو مرور کردم.
 
 ### 🗓️ Friday (1405-06-06)
-- ⏱️ **Working Hours Today:** xx
+- ⏱️ **Working Hours Today:** 1h
+امروز ویدیوی مربوط به ChatGPT رو نگاه کردم. 
 ### 🗓️ Saturday (1405-06-07)
 - ⏱️ **Working Hours Today:** xx
 ### 🗓️ Sunday (1405-06-08)
@@ -76,7 +77,7 @@
 
 ---
 
-## 📝 Week 2 Activity
+## 📝 Week 5 Activity
 
 > 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
 
