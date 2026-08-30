@@ -58,6 +58,7 @@
 ### 🗓️ Saturday (1405-06-07)
 - ⏱️ **Working Hours Today:** 3h
 
+### 📋 Study Item #2: LESS tutorial
 | Social                 | Link | Date |
 | ---------------------- | ---- | ---- |
 | ![Telegram](images/telegram-icon.svg)   |   https://t.me/c/1276832565/12828   |  05-06-07    |
@@ -71,7 +72,19 @@
 جاوا اسکریپت خوندم بخش array هارو.
 
 ### 🗓️ Sunday (1405-06-08)
-- ⏱️ **Working Hours Today:** xx
+- ⏱️ **Working Hours Today:** 3:30 h
+
+### 📋 Task #6: Find at least 5 more online resources about JS and explain why you chose them.
+| Social                 | Link | Date |
+| ---------------------- | ---- | ---- |
+| ![Telegram](images/telegram-icon.svg)   |   https://t.me/c/1276832565/12832  |  05-06-08    |
+| ![LinkedIn](images/linkedin-icon.svg)   |  https://lnkd.in/p/ebywUYfr   |   05-06-08   |
+| ![Twitter](images/twitter-icon.svg)     |   https://x.com/PBeiglou/status/2094140492606746873?s=20   |   05-06-08   |
+
+امروز اولین جلسه مصاحبه ای بود که به عنوان مشاهده کننده شرکت کردم و خیلی جالب بود.
+جاوا اسکریپت خوندم امروز هم.
+پست های مربوط به تسک 6 رو شیر کردم. 
+
 
 ### 🤝 Meetings Attended
 | Title/Purpose         | 📅 Date    |
@@ -80,12 +93,13 @@
 | Sahar Mohamadi step1 presentation | 1405-06-02 |
 | Daily report on GitHub | 1405-06-05 |
 | Technical assistant meeting with Mohamad Darvishzade| 1405-06-07 |
+| Interview session of Alireza Soleimani/ I was observer| 1405-06-08 |
 
 ### 😊 Weekly Satisfaction Assessment
 | 📊 Satisfaction Level            | ⭐ Rating |
 | -------------------------------- | --------- |
-| ⏱️ **Total Hours This Week**     | xx of xx hours |
-| **Overall Satisfaction**         | [XX]%     |
+| ⏱️ **Total Hours This Week**     | 16:20 of 18 hours |
+| **Overall Satisfaction**         | [100]%     |
 ### ✍️ Additional Notes (Optional)
 *Use this section for any other activities or explanations not covered above.*
 - [Your point 1]
