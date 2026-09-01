@@ -107,38 +107,34 @@
 
 ---
 
-## 📝 Week 5 Activity
-
-> 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
+## 📝 Week 6 Activity
 
 
-### 📋 Task #1: name
 
-| Social                 | Link | Date |
-| ---------------------- | ---- | ---- |
-| ![Telegram](images/telegram-icon.svg)   |      |      |
-| ![LinkedIn](images/linkedin-icon.svg)   |      |      |
-| ![Twitter](images/twitter-icon.svg)     |      |      |
+### 🗓️ Monday (1405-06-09)
+- ⏱️ **Working Hours Today:** 2:30h
 
-### 🗓️ Monday (1405-xx-xx)
+تو جلسه عملیاتی شرکت کردم و درباره تسک هام صحبت کردم.
+
+جاوا اسکریپت خوندم.
+### 🗓️ Tuesday (1405-06-10)
+- ⏱️ **Working Hours Today:** 3h
+
+### 🗓️ Wednesday (1405-06-11)
 - ⏱️ **Working Hours Today:** xx
-### 🗓️ Tuesday (1405-xx-xx)
+### 🗓️ Thursday (1405-06-12)
 - ⏱️ **Working Hours Today:** xx
-### 🗓️ Wednesday (1405-xx-xx)
+### 🗓️ Friday (1405-06-13)
 - ⏱️ **Working Hours Today:** xx
-### 🗓️ Thursday (1405-xx-xx)
+### 🗓️ Saturday (1405-06-14)
 - ⏱️ **Working Hours Today:** xx
-### 🗓️ Friday (1405-xx-xx)
-- ⏱️ **Working Hours Today:** xx
-### 🗓️ Saturday (1405-xx-xx)
-- ⏱️ **Working Hours Today:** xx
-### 🗓️ Sunday (1405-xx-xx)
+### 🗓️ Sunday (1405-06-15)
 - ⏱️ **Working Hours Today:** xx
 
 ### 🤝 Meetings Attended
 | Title/Purpose         | 📅 Date    |
 | --------------------- | ---------- |
-| [Meeting Description] | YYYY-MM-DD |
+| Operational session | 1405-06-09 |
 
 ### 😊 Weekly Satisfaction Assessment
 | 📊 Satisfaction Level            | ⭐ Rating |
@@ -152,11 +148,9 @@
 
 ---
 
-## 📝 Week 3 Activity
+## 📝 Week 7 Activity
 
-> 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
 
-```markdown
 ### 📋 Task #1: name
 
 | Social                 | Link | Date |
@@ -164,21 +158,20 @@
 | ![Telegram](images/telegram-icon.svg)   |      |      |
 | ![LinkedIn](images/linkedin-icon.svg)   |      |      |
 | ![Twitter](images/twitter-icon.svg)     |      |      |
-```
 
-### 🗓️ Monday (1405-xx-xx)
+### 🗓️ Monday (1405-06-16)
 - ⏱️ **Working Hours Today:** xx
-### 🗓️ Tuesday (1405-xx-xx)
+### 🗓️ Tuesday (1405-06-17)
 - ⏱️ **Working Hours Today:** xx
-### 🗓️ Wednesday (1405-xx-xx)
+### 🗓️ Wednesday (1405-06-18)
 - ⏱️ **Working Hours Today:** xx
-### 🗓️ Thursday (1405-xx-xx)
+### 🗓️ Thursday (1405-06-19)
 - ⏱️ **Working Hours Today:** xx
-### 🗓️ Friday (1405-xx-xx)
+### 🗓️ Friday (1405-06-20)
 - ⏱️ **Working Hours Today:** xx
-### 🗓️ Saturday (1405-xx-xx)
+### 🗓️ Saturday (1405-06-21)
 - ⏱️ **Working Hours Today:** xx
-### 🗓️ Sunday (1405-xx-xx)
+### 🗓️ Sunday (1405-06-22)
 - ⏱️ **Working Hours Today:** xx
 
 ### 🤝 Meetings Attended
