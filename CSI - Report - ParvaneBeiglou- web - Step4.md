@@ -121,7 +121,7 @@
 - ⏱️ **Working Hours Today:** 3h
 
 ### 🗓️ Wednesday (1405-06-11)
-- ⏱️ **Working Hours Today:** xx
+- ⏱️ **Working Hours Today:** 1h
 ### 🗓️ Thursday (1405-06-12)
 - ⏱️ **Working Hours Today:** xx
 ### 🗓️ Friday (1405-06-13)
