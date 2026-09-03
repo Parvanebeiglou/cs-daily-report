@@ -123,7 +123,15 @@
 ### 🗓️ Wednesday (1405-06-11)
 - ⏱️ **Working Hours Today:** 1h
 ### 🗓️ Thursday (1405-06-12)
-- ⏱️ **Working Hours Today:** xx
+- ⏱️ **Working Hours Today:** 3.5h
+
+### 📋 Study Item #3: SCSS tutorial
+| Social                 | Link | Date |
+| ---------------------- | ---- | ---- |
+| ![Telegram](images/telegram-icon.svg)   |   https://t.me/c/1276832565/12835  |  05-06-12    |
+| ![LinkedIn](images/linkedin-icon.svg)   |  https://lnkd.in/p/e3WG--y4  |   05-06-12   |
+| ![Twitter](images/twitter-icon.svg)     |   https://x.com/PBeiglou/status/2095468651558195596?s=20  |   05-06-12   |
+
 ### 🗓️ Friday (1405-06-13)
 - ⏱️ **Working Hours Today:** xx
 ### 🗓️ Saturday (1405-06-14)
