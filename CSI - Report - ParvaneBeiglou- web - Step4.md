@@ -133,7 +133,7 @@
 | ![Twitter](images/twitter-icon.svg)     |   https://x.com/PBeiglou/status/2095468651558195596?s=20  |   05-06-12   |
 
 ### 🗓️ Friday (1405-06-13)
-- ⏱️ **Working Hours Today:** xx
+- ⏱️ **Working Hours Today:** 1:30h
 ### 🗓️ Saturday (1405-06-14)
 - ⏱️ **Working Hours Today:** xx
 ### 🗓️ Sunday (1405-06-15)
