@@ -145,18 +145,27 @@
 | ![Twitter](images/twitter-icon.svg)     |   https://x.com/PBeiglou/status/2096263676370026860?s=20  |   05-06-14   |
 
 ### 🗓️ Sunday (1405-06-15)
-- ⏱️ **Working Hours Today:** xx
+- ⏱️ **Working Hours Today:** 3h
+
+### 📋 Study Item #6: Watch this video to learn how to harness the power of large language models with ChatGPT Prompt Engineering.For the latest developments, you can also check the most recently published content on this topic. *ChatGPT Prompt Engineering for Developers
+
+| Social                 | Link | Date |
+| ---------------------- | ---- | ---- |
+| ![Telegram](images/telegram-icon.svg)   |   https://t.me/c/1276832565/12838  |  05-06-15    |
+| ![LinkedIn](images/linkedin-icon.svg)   |  https://www.linkedin.com/posts/parvane-beiglou-4173a01b3_csabrinternship-web-step4-activity-7502356491581169664-vuVf?utm_source=share&utm_medium=member_desktop&rcm=ACoAADG2gFMBF-g0p235gionY6tNE3olZDr2TF0  |   05-06-15   |
+| ![Twitter](images/twitter-icon.svg)     |   https://x.com/PBeiglou/status/2096597220942286868?s=20  |   05-06-15   |
 
 ### 🤝 Meetings Attended
 | Title/Purpose         | 📅 Date    |
 | --------------------- | ---------- |
 | Operational session | 1405-06-09 |
+| Coaching workshop | 1405-06-15 |
 
 ### 😊 Weekly Satisfaction Assessment
 | 📊 Satisfaction Level            | ⭐ Rating |
 | -------------------------------- | --------- |
-| ⏱️ **Total Hours This Week**     | xx of xx hours |
-| **Overall Satisfaction**         | [XX]%     |
+| ⏱️ **Total Hours This Week**     | 18:30 of 18 hours |
+| **Overall Satisfaction**         | 100%     |
 ### ✍️ Additional Notes (Optional)
 *Use this section for any other activities or explanations not covered above.*
 - [Your point 1]
