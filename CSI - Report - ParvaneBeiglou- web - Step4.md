@@ -176,16 +176,19 @@
 ## 📝 Week 7 Activity
 
 
-### 📋 Task #1: name
+
+### 🗓️ Monday (1405-06-16)
+- ⏱️ **Working Hours Today:** 4h
+
+### 📋 Task #2: Enhance the Todo App
 
 | Social                 | Link | Date |
 | ---------------------- | ---- | ---- |
-| ![Telegram](images/telegram-icon.svg)   |      |      |
-| ![LinkedIn](images/linkedin-icon.svg)   |      |      |
-| ![Twitter](images/twitter-icon.svg)     |      |      |
+| ![Telegram](images/telegram-icon.svg)   |   https://t.me/c/1276832565/12841   | 05-06-16     |
+| ![LinkedIn](images/linkedin-icon.svg)   |   https://www.linkedin.com/posts/parvane-beiglou-4173a01b3_csabrinternship-web-step4-activity-7502712036288561152-X-KF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADG2gFMBF-g0p235gionY6tNE3olZDr2TF0   |  05-06-16    |
+| ![Twitter](images/twitter-icon.svg)     |   https://x.com/PBeiglou/status/2096963226294448496?s=20   |   05-06-16 |   
 
-### 🗓️ Monday (1405-06-16)
-- ⏱️ **Working Hours Today:** xx
+
 ### 🗓️ Tuesday (1405-06-17)
 - ⏱️ **Working Hours Today:** xx
 ### 🗓️ Wednesday (1405-06-18)
@@ -202,7 +205,8 @@
 ### 🤝 Meetings Attended
 | Title/Purpose         | 📅 Date    |
 | --------------------- | ---------- |
-| [Meeting Description] | YYYY-MM-DD |
+| Technical session | 1405-06-16 |
+| Operational session | 1405-06-16 |
 
 ### 😊 Weekly Satisfaction Assessment
 | 📊 Satisfaction Level            | ⭐ Rating |
