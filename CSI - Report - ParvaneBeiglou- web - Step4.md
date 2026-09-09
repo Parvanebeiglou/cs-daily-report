@@ -190,9 +190,9 @@
 
 
 ### 🗓️ Tuesday (1405-06-17)
-- ⏱️ **Working Hours Today:** xx
+- ⏱️ **Working Hours Today:** 2h
 ### 🗓️ Wednesday (1405-06-18)
-- ⏱️ **Working Hours Today:** xx
+- ⏱️ **Working Hours Today:** 1h
 ### 🗓️ Thursday (1405-06-19)
 - ⏱️ **Working Hours Today:** xx
 ### 🗓️ Friday (1405-06-20)
