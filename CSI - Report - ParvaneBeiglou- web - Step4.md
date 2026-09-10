@@ -194,7 +194,7 @@
 ### 🗓️ Wednesday (1405-06-18)
 - ⏱️ **Working Hours Today:** 1h
 ### 🗓️ Thursday (1405-06-19)
-- ⏱️ **Working Hours Today:** xx
+- ⏱️ **Working Hours Today:** 3h
 ### 🗓️ Friday (1405-06-20)
 - ⏱️ **Working Hours Today:** xx
 ### 🗓️ Saturday (1405-06-21)
