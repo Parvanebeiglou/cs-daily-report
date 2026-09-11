@@ -196,7 +196,7 @@
 ### 🗓️ Thursday (1405-06-19)
 - ⏱️ **Working Hours Today:** 3h
 ### 🗓️ Friday (1405-06-20)
-- ⏱️ **Working Hours Today:** xx
+- ⏱️ **Working Hours Today:** 3h
 ### 🗓️ Saturday (1405-06-21)
 - ⏱️ **Working Hours Today:** xx
 ### 🗓️ Sunday (1405-06-22)
@@ -207,6 +207,7 @@
 | --------------------- | ---------- |
 | Technical session | 1405-06-16 |
 | Operational session | 1405-06-16 |
+| Find new study item for old one( with Maryam Davodi) | 1405-06-19 |
 
 ### 😊 Weekly Satisfaction Assessment
 | 📊 Satisfaction Level            | ⭐ Rating |
