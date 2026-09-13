@@ -200,7 +200,9 @@
 ### 🗓️ Saturday (1405-06-21)
 - ⏱️ **Working Hours Today:** 5h
 ### 🗓️ Sunday (1405-06-22)
-- ⏱️ **Working Hours Today:** xx
+- ⏱️ **Working Hours Today:** 4h
+
+امروز ارایه داشتم.
 
 ### 🤝 Meetings Attended
 | Title/Purpose         | 📅 Date    |
@@ -212,8 +214,8 @@
 ### 😊 Weekly Satisfaction Assessment
 | 📊 Satisfaction Level            | ⭐ Rating |
 | -------------------------------- | --------- |
-| ⏱️ **Total Hours This Week**     | xx of xx hours |
-| **Overall Satisfaction**         | [XX]%     |
+| ⏱️ **Total Hours This Week**     | 18 of 18 hours |
+| **Overall Satisfaction**         | [100]%     |
 ### ✍️ Additional Notes (Optional)
 *Use this section for any other activities or explanations not covered above.*
 - [Your point 1]
